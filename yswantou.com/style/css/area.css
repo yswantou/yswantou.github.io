@@ -1,0 +1,7 @@
+@charset "utf-8";
+
+/*地区分站*/
+.area{border:1px solid #ccc;border-bottom:none;border-top:none;height:auto;height:auto;padding:10px 5px;}
+.dtcp{font-size: 14px;font-weight: bold;border-bottom: 2px solid #F00;padding-bottom: 6px;color: #333333;}
+.area dl{margin: 5px 0px;line-height: 22px;}
+.area dl dt{float:left;margin-right:10px;}

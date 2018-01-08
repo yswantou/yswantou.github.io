@@ -1,0 +1,22 @@
+/*---网站地图---*/
+
+.map_main { overflow:hidden; border:solid 5px #F0F0F0; margin:10px 0; padding-bottom:10px; }
+.sitemap_con { width:845px; margin:0 auto; color:#666;}
+.sitemap_con .map_top { border-bottom:solid 1px #ccc; }
+.sitemap_con .map_top img { float:left;}
+.site_r_link { width:120px; margin-top:45px;/*上边界根据需要进行调整*/ border:1px solid #cdcdcd; background:#F8F8F8; padding:5px 10px; float:right; } /*网站地图，显示方式样式，上边界根据需要进行调整*/
+.site_plc { background:url(img/ico27.html) no-repeat 0 8px; padding:5px 0; text-indent:10px;}
+.sitemap_con h4 { line-height:30px;}
+.b4 { border:solid 1px #E0E0E0;}
+.b4 ul { padding:0 11px;}
+.b4 li { float:left ; line-height:25px; width:164px; white-space:nowrap; overflow:hidden; }
+.b4 li a { color:#666;}
+.b4 li a:hover { color:#0F6BD6;}
+
+/*网站地图的头部样式*/
+.topbar { background:url(img/topbar.html) repeat-x; line-height:30px; }
+.top_con { width:930px; margin:0 auto;}
+.top_con a { margin:0 4px;}
+.top_con a.cur { color:#e67817; text-decoration:underline;}
+.top_call { font-size:14px; font-weight:bold; margin-left:15px; margin-right:25px; }
+.top_con_nav a { color:#0066FF;}
